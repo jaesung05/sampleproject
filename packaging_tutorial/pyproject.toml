@@ -1,0 +1,18 @@
+[project]
+name = "example_package_jaesung05"
+version = "0.0.1"
+authors = [
+  { name="jaesung05", email="1004jaesung@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/jaesung05/sampleproject"
+Issues = "https://github.com/jaesung05/sampleproject/issues"
